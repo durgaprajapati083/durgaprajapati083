@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **durgaprajapati703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_OD-6tLo7UGugrd1ySjI7-ehiy-kMmRb/view?usp=drivesdk]([https://drive.google.com/file/d/1KpCM5ljRR1yBJ3A4v-BqmJZgNYL0DnUt/view?usp=drivesdk](https://drive.google.com/file/d/1R5EeTNRMbSpY2SPc-3LHt_GynBMCC3Wk/view?usp=drivesdk))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_OD-6tLo7UGugrd1ySjI7-ehiy-kMmRb/view?usp=drivesdk]([https://drive.google.com/file/d/1_OD-6tLo7UGugrd1ySjI7-ehiy-kMmRb/view?usp=drivesdk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
