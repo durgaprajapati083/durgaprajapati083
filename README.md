@@ -6,7 +6,7 @@
   />
 </h1>
 
-<h3 align="center">A Flutter and an Android developer</h3>
+<h3 align="center">Mobile App Development</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprajapati" /> </p>
