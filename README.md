@@ -1,5 +1,4 @@
 ![MasterHead](https://www.chiefdisruptor.com/hubfs/Untitled%20design-1.gif)
-<h1 align="center">Hi 👋, I'm Durga Prajapati</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Durga+Prajapati" alt="Typing SVG" />
 </h1>
