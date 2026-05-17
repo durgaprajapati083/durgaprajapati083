@@ -1,36 +1,7 @@
 ![MasterHead](https://www.chiefdisruptor.com/hubfs/Untitled%20design-1.gif)
 <h1 align="center">Hi 👋, I'm Durga Prajapati</h1>
-
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="400" height="40" viewBox="0 0 400 40">
-    <style>
-      .typewriter {
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 20px;
-        fill: #39D353; /* Change text color here */
-        font-weight: bold;
-        white-space: nowrap;
-        overflow: hidden;
-        border-right: 3px solid;
-        width: 0;
-        animation: typing 3.5s steps(30, end) infinite, blink-caret .75s step-end infinite;
-      }
-
-      @keyframes typing {
-        0% { width: 0 }
-        50% { width: 100% }
-        100% { width: 0 }
-      }
-
-      @keyframes blink-caret {
-        from, to { border-color: transparent }
-        50% { border-color: #39D353; }
-      }
-    </style>
-    <text x="50%" y="25" dominant-baseline="middle" text-anchor="middle" class="typewriter">
-      A Passionate Developer.
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=A+Flutter+and+Android+Developer;Building+Mobile+Apps+📱;Open+to+Collaboration+🤝" alt="Typing SVG" />
 </p>
 <h3 align="center">A Flutter and an Android developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
