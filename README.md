@@ -1,7 +1,7 @@
 ![MasterHead](https://www.chiefdisruptor.com/hubfs/Untitled%20design-1.gif)
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Flutter+Developer+%7C+Android+Developer+%7C+Open+Source+Learner+%7C+CSE+Student" 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=40&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=1200&lines=Flutter+Developer;Android+Developer;Open+Source+Learner;CSE+Student" 
     alt="Typing SVG" 
   />
 </h1>
