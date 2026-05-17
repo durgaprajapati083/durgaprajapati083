@@ -1,8 +1,9 @@
 ![MasterHead](https://www.chiefdisruptor.com/hubfs/Untitled%20design-1.gif)
 <h1 align="center">Hi 👋, I'm Durga Prajapati</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=A+Flutter+and+Android+Developer;Building+Mobile+Apps+📱;Open+to+Collaboration+🤝" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Durga+Prajapati" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A Flutter and an Android developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 
